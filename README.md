@@ -11,7 +11,7 @@ to discover local struture in background data, exploiting the full information b
 The main idea is based on segmentation of the data interval into variable-sized blocks, each containing
 consecutive data satisfying some well defined criteria.
 
-Write an alorithm and then test its performances with different sets of data.
+Write an algorithm and then test its performances with different sets of data. </br>
 Try to think other possible application of the method.
 
 
