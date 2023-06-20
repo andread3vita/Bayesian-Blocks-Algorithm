@@ -9,13 +9,13 @@ invented by D. Scargle [^1] and applied in the context of astronomical time seri
 technique available on the market is the kernel density estimation (KDE). As described in [^2], it allows
 to discover local struture in background data, exploiting the full information brought by the data.
 The main idea is based on segmentation of the data interval into variable-sized blocks, each containing
-consecutive data satisfying some well dened criteria.
+consecutive data satisfying some well defined criteria.
 
 Write an alorithm and then test its performances with different sets of data.
 Try to think other possible application of the method.
 
 ## Bibliography
-[^1] J. D. Scargle *et al.*, Astrophys. J. **764** (2013) 167
-[^2] B. Pollack *et al.*, [arXiv:1708.008 10](https://arxiv.org/abs/1708.00810)
-[^3] J. D. Scargle *et al.*, Astrophys. J. **504** (1998) 405
+[^1]: J. D. Scargle *et al.*, Astrophys. J. **764** (2013) 167  
+[^2]: B. Pollack *et al.*, [arXiv:1708.008 10](https://arxiv.org/abs/1708.00810)  
+[^3]: J. D. Scargle *et al.*, Astrophys. J. **504** (1998) 405
 
