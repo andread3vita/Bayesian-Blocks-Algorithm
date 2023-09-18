@@ -1,5 +1,10 @@
+- Andrea De Vita
+- Enrico Lupi
+  
+-----------------------
+
 # Bayesian Blocks Algorithm
-Final Project for the **Advanced Statistics for Physics Analysis** course, Physics of Data degree at University of Padua.
+Final Project for *Advanced Statistics for Physics Analysis* course, Physics of Data degree at University of Padua.
 
 ## Assignment:
 **Bayesian Blocks**: a dynamic algorithm for histogram representation.
