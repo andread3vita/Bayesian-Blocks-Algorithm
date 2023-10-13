@@ -4,7 +4,7 @@
 -----------------------
 
 # Bayesian Blocks Algorithm
-Final Project for *Advanced Statistics for Physics Analysis* course, Physics of Data degree at University of Padua.
+Final Project for *Advanced Statistics for Physics Analysis* course, Physics of Data degree at University of Padova.
 
 ## Assignment:
 **Bayesian Blocks**: a dynamic algorithm for histogram representation.
